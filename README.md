@@ -1,7 +1,7 @@
 ## 2020-2021 International Conferences in Artificial Intelligence, Machine Learning, and Natural Language Processing
 This is the version for NLP
 
-* [Conference Page](https://github.com/chuyuanli/conference_call_for_paper/blob/master/conferences.html)
+* [Conference Page](https://github.com/chuyuanli/conference_call_for_paper/conferences.html)
 * [Conference Page(with CCF)](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html). China Computer Federation Recommended Ranking, for Chinese student only.
 
 ### TODO List
